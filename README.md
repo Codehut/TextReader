@@ -1,6 +1,6 @@
 # TextReader
 
-This is smiple Text reader desktop application.
+This is smiple Text reader desktop application (WPF).
 
 How to use:
 
