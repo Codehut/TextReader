@@ -15,3 +15,6 @@ Features:
 3. Show current reading text
 4. Play/Pause
 
+Here is how it looks.
+
+![Z-Reader Screenshot](https://zsrestawp.blob.core.windows.net/misc/ZReaderSC.png)
