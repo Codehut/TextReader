@@ -1,0 +1,3 @@
+Nothing but simple text reader application.
+Tecnology:
+Text-To-Speech
